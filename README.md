@@ -1,0 +1,2 @@
+# brower-based-intillegent-document-paser-build-front-end-with-backend-
+An AI-powered web application that automatically extracts, classifies, summarizes, and analyzes information from PDFs, images, invoices, resumes, contracts The system uses OCR, NLP, and Large Language Models to transform unstructured documents into structured data. Modern document intelligence systems commonly, document layout analysis, NLP
